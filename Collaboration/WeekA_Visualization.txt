@@ -1,0 +1,1777 @@
+==============================================================
+Guild: DATA 6550 - Group 6
+Channel: Module 3 / module-3-transcript / Transcription from 2025-02-21T01:07:20Z
+==============================================================
+
+[2/20/2025 7:07 PM] Chance
+<@1153763131697410048>
+
+
+[2/20/2025 7:07 PM] Ashlyn
+thanks!
+
+
+[2/20/2025 7:07 PM] Chance
+All right, there you go Ashland.
+
+
+[2/20/2025 7:07 PM] Autumn
+As soon as I hate that you're sick in here, I feel like we could catch you up.
+
+
+[2/20/2025 7:07 PM] Autumn
+You're a flight to get a war on. And...
+
+
+[2/20/2025 7:07 PM] Autumn
+I'll have to push through in the new Yamaha Keto at home.
+
+
+[2/20/2025 7:08 PM] Chance
+Yeah, I don't know what's going on.
+ I think there's a lot going around right now.
+
+
+[2/20/2025 7:08 PM] Autumn
+Yeah.
+
+
+[2/20/2025 7:08 PM] Kirstin
+really is, I'm actually grabbing my husband from work really fast, like right
+ near our house, because he doesn't feel good.
+
+
+[2/20/2025 7:08 PM] Autumn
+No, no.
+
+
+[2/20/2025 7:08 PM] Kirstin
+I'm in the park!
+
+
+[2/20/2025 7:08 PM] Kirstin
+He called out a couple days and then still is not feeling good and my daughter was sick.
+
+
+[2/20/2025 7:08 PM] Ashlyn
+ill go ahead and add some of my notes: 
+
+To Do:  
+
+ 
+
+Separate group: 
+
+2 people creating ‘good’ visualizations (clear & accurate) 
+
+2 people creating ‘not so good’ visualizations (mislead & manipulate) 
+
+All 4 do seperate visuals 
+
+ 
+
+Using Google doc again?  
+
+ 
+
+Data Cleansing:  
+
+Remove pclass column (class column gives description) 
+
+Remove ‘embarked’ column  
+
+Change ‘survived’ 0 & 1 to ‘no’ & ‘yes’ and remove ‘alive’ column 
+
+ 
+
+Data Analysis: 
+
+Age column has 177 null values. How should we handle? Ignore?  
+
+Most of the people with no age available were alone, those that were not alone, perhaps the person they went with died as well.
+
+
+[2/20/2025 7:08 PM] Kirstin
+Everyone sit, get on it.
+
+
+[2/20/2025 7:08 PM] Chance
+Um.
+
+
+[2/20/2025 7:08 PM] Chance
+So.
+
+
+[2/20/2025 7:08 PM] Chance
+Yeah, going through.
+
+
+[2/20/2025 7:08 PM] Chance
+Yeah, I definitely agree.
+ And I just dropped the link to the Google Doc.
+
+
+[2/20/2025 7:08 PM] Chance
+one in that thread.
+
+
+[2/20/2025 7:09 PM] Chance
+Um, be out.
+
+
+[2/20/2025 7:09 PM] Chance
+kind of the same.
+
+
+[2/20/2025 7:09 PM] Chance
+thing as last time.
+
+
+[2/20/2025 7:09 PM] Chance
+Something that I noticed that might be beneficial for y'all's analysis is
+
+
+[2/20/2025 7:09 PM] Chance
+is that... um...
+
+
+[2/20/2025 7:09 PM] Chance
+The deck?
+ Column?
+
+
+[2/20/2025 7:09 PM] Chance
+is that there are a lot of missing values in the
+ Yeah.
+
+
+[2/20/2025 7:09 PM] Chance
+represent like the cabin or like the housing or like the
+
+
+[2/20/2025 7:09 PM] Chance
+the room assignment.
+
+
+[2/20/2025 7:09 PM] Chance
+for the ship.
+
+
+[2/20/2025 7:09 PM] Chance
+in the...
+
+
+[2/20/2025 7:09 PM] Chance
+from Seaborn, there's 77% of that missing, so I just plan on dropping that.
+
+
+[2/20/2025 7:09 PM] Ashlyn
+ok thank you i made this yesterday im sure weve talked about some of it already. just wanted to add
+
+
+[2/20/2025 7:09 PM] Autumn
+Oh thanks, well I went back in because I'm
+
+
+[2/20/2025 7:09 PM] Autumn
+Okay, and I'm apologize.
+
+
+[2/20/2025 7:09 PM] Autumn
+for...
+
+
+[2/20/2025 7:10 PM] Autumn
+not catching on. Um, I know you a loaded everything in
+
+
+[2/20/2025 7:10 PM] Autumn
+to get home.
+
+
+[2/20/2025 7:10 PM] Autumn
+but I don't see the folder.
+
+
+[2/20/2025 7:10 PM] Autumn
+on my guest cop, so I had to-
+
+
+[2/20/2025 7:10 PM] Chance
+Oh!
+
+
+[2/20/2025 7:10 PM] Chance
+Um, do.
+
+
+[2/20/2025 7:10 PM] Autumn
+Like where I can look at it so even when I
+
+
+[2/20/2025 7:10 PM] Autumn
+went in today. I just re-downloaded the file because he said it's very common and then I just
+
+
+[2/20/2025 7:10 PM] Autumn
+uploaded my Jupyter Notebook. Like I didn't do a push
+
+
+[2/20/2025 7:10 PM] Autumn
+from my GitHub desk, oh, I couldn't.
+
+
+[2/20/2025 7:10 PM] Autumn
+I can't see, I don't know am I supposed to request a poll?
+
+
+[2/20/2025 7:10 PM] Chance
+So any time that the...
+
+
+[2/20/2025 7:10 PM] Ashlyn
+i still feel so dumb with github so im just saving my python notebook and committing every time
+
+
+[2/20/2025 7:10 PM] Chance
+I would say is the best practice any time that you are going to work on something?
+ Like, once you've cloned the repository, always do a...
+ Breath here, let me share my full screen.
+
+
+[2/20/2025 7:10 PM] Autumn
+Okay, thank you, and I know
+
+
+[2/20/2025 7:10 PM] Chance
+Oh no!
+
+
+[2/20/2025 7:10 PM] Autumn
+I mean, as they go, I follow.
+
+
+[2/20/2025 7:10 PM] Autumn
+You lose them.
+
+
+[2/20/2025 7:10 PM] Chance
+Oh, no, no, no, you're good.
+ I mean, it's, I mean,
+
+
+[2/20/2025 7:10 PM] Chance
+It's important to, it's important to,
+
+
+[2/20/2025 7:10 PM] Chance
+To...
+
+
+[2/20/2025 7:11 PM] Chance
+Like ask questions about things that not everybody has worked with.
+
+
+[2/20/2025 7:11 PM] Chance
+so like.
+
+
+[2/20/2025 7:11 PM] Chance
+Any time that like I and also I work between my desktop, which we're on right now, and then whenever I'm like
+
+
+[2/20/2025 7:11 PM] Chance
+away from home I use my laptop.
+
+
+[2/20/2025 7:11 PM] Chance
+And I typically don't have a lot of issues.
+
+
+[2/20/2025 7:11 PM] Chance
+I'll remember with the files that I see.
+
+
+[2/20/2025 7:11 PM] Chance
+save because
+
+
+[2/20/2025 7:11 PM] Autumn
+mm hmm.
+
+
+[2/20/2025 7:11 PM] Chance
+They're in like a folder they get
+
+
+[2/20/2025 7:11 PM] Chance
+It's updated into one drive.
+
+
+[2/20/2025 7:11 PM] Chance
+Any time that I start working, I instinctively open
+
+
+[2/20/2025 7:11 PM] Chance
+get hub desktop and press the fetch origin button.
+
+
+[2/20/2025 7:11 PM] Autumn
+Okay.
+
+
+[2/20/2025 7:11 PM] Chance
+just to make sure that like.
+
+
+[2/20/2025 7:11 PM] Chance
+whenever i created the repository
+
+
+[2/20/2025 7:11 PM] Chance
+There was a bit of a delay before like I
+
+
+[2/20/2025 7:11 PM] Chance
+uploaded everybody's notebooks.
+
+
+[2/20/2025 7:11 PM] Chance
+But what I'll do is
+
+
+[2/20/2025 7:11 PM] Chance
+since you have so which one are you actively working in is it the
+
+
+[2/20/2025 7:12 PM] Chance
+one that has like the one in front of you.
+
+
+[2/20/2025 7:12 PM] Autumn
+The number one. Yeah.
+
+
+[2/20/2025 7:12 PM] Chance
+Okay, so I will.
+
+
+[2/20/2025 7:12 PM] Autumn
+And like, it was.
+
+
+[2/20/2025 7:12 PM] Autumn
+Really small and quick to do.
+
+
+[2/20/2025 7:12 PM] Chance
+Yeah.
+
+
+[2/20/2025 7:12 PM] Autumn
+so that's fine. I was just going to wonder now that I even played around a little bit more since I uploaded that. I was like I
+
+
+[2/20/2025 7:12 PM] Autumn
+needed. I felt like
+
+
+[2/20/2025 7:12 PM] Chance
+lead.
+
+
+[2/20/2025 7:12 PM] Autumn
+to get something in there so y'all knew I was working. I wasn't just thinking out.
+
+
+[2/20/2025 7:12 PM] Chance
+I mean, this, this
+
+
+[2/20/2025 7:12 PM] Chance
+Think it relatively.
+
+
+[2/20/2025 7:12 PM] Chance
+I don't want to see easy projects.
+
+
+[2/20/2025 7:12 PM] Chance
+but like, like...
+
+
+[2/20/2025 7:12 PM] Chance
+This one is
+
+
+[2/20/2025 7:12 PM] Chance
+is like very...
+
+
+[2/20/2025 7:12 PM] Chance
+approachable.
+
+
+[2/20/2025 7:12 PM] Kirstin
+That's like not very involved.
+
+
+[2/20/2025 7:12 PM] Chance
+That's all I'm looking for.
+
+
+[2/20/2025 7:12 PM] Chance
+But it's like I think that it's like it's we have like kind of just an open end to do
+
+
+[2/20/2025 7:12 PM] Chance
+whatever you want.
+
+
+[2/20/2025 7:12 PM] Chance
+Um.
+
+
+[2/20/2025 7:13 PM] Chance
+I think the biggest thing is like just communicating what
+
+
+[2/20/2025 7:13 PM] Chance
+what each of us like because
+
+
+[2/20/2025 7:13 PM] Chance
+I don't want us to just
+
+
+[2/20/2025 7:13 PM] Chance
+all have like.
+
+
+[2/20/2025 7:13 PM] Chance
+the same plots, you know.
+
+
+[2/20/2025 7:13 PM] Kirstin
+Yeah, we don't want to end up with the same breath.
+
+
+[2/20/2025 7:13 PM] Kirstin
+for everyone.
+
+
+[2/20/2025 7:13 PM] Chance
+And that's what I'm thinking like as we kind of have ideas of what we want to do.
+
+
+[2/20/2025 7:13 PM] Chance
+Um.
+
+
+[2/20/2025 7:13 PM] Chance
+Just dropping that in Discord.
+
+
+[2/20/2025 7:13 PM] Chance
+and.
+
+
+[2/20/2025 7:13 PM] Chance
+just like communicate that out.
+
+
+[2/20/2025 7:13 PM] Kirstin
+Yeah, that makes sense.
+
+
+[2/20/2025 7:13 PM] Chance
+Because like nope, it's like we don't want to see like four plots or like four instances.
+
+
+[2/20/2025 7:13 PM] Chance
+of the
+
+
+[2/20/2025 7:13 PM] Chance
+like the plot showing how many people lived and how many people died.
+
+
+[2/20/2025 7:13 PM] Autumn
+Yeah. And like, you know, you could put something there
+ about sex in gender. I like is that I just started playing
+ around the one thing that kind of peaked my interest because it
+ was just weird.
+
+
+[2/20/2025 7:14 PM] Autumn
+child.
+
+
+[2/20/2025 7:14 PM] Autumn
+um it's like it doesn't really tell you anything and i do have a bar graph on there so i don't know if
+ that's the kind of thing he's looking for it's like oh if you had
+
+
+[2/20/2025 7:14 PM] Autumn
+two kids or there was like a combination of a
+
+
+[2/20/2025 7:14 PM] Autumn
+can't trial group of two we were
+
+
+[2/20/2025 7:14 PM] Autumn
+in the highest, um,
+
+
+[2/20/2025 7:14 PM] Autumn
+Survival rate grew.
+
+
+[2/20/2025 7:14 PM] Ashlyn
+i think to show if you had child then the parent was more likely to survive
+
+
+[2/20/2025 7:14 PM] Chance
+Yeah, all men.
+
+
+[2/20/2025 7:14 PM] Autumn
+I don't really know.
+
+
+[2/20/2025 7:14 PM] Autumn
+how many children or what that all means.
+
+
+[2/20/2025 7:14 PM] Ashlyn
+and kids
+
+
+[2/20/2025 7:14 PM] Kirstin
+Kirstin disconnected
+
+
+[2/20/2025 7:14 PM] Autumn
+I mean, I guess it's a one to one ratio and it doesn't mean just because you had a certain number of like family numbers means you had a better ratio.
+
+
+[2/20/2025 7:14 PM] Autumn
+Survival.
+
+
+[2/20/2025 7:14 PM] Chance
+Yeah, and also something that I noticed in
+ Um.
+
+
+[2/20/2025 7:14 PM] Chance
+I think it was the Kaggle.
+
+
+[2/20/2025 7:14 PM] Chance
+We're pulling in three.
+
+
+[2/20/2025 7:14 PM] Chance
+seeborn is from...
+
+
+[2/20/2025 7:14 PM] Chance
+but the Kaggle data set that Muktasik was talking about at the very end of class.
+
+
+[2/20/2025 7:15 PM] Chance
+like the training and test set, like I think the C born one is
+
+
+[2/20/2025 7:15 PM] Chance
+consolidated.
+
+
+[2/20/2025 7:15 PM] Chance
+Um.
+
+
+[2/20/2025 7:15 PM] Chance
+But...
+
+
+[2/20/2025 7:15 PM] Chance
+It mentioned something about the...
+
+
+[2/20/2025 7:15 PM] Chance
+Um.
+
+
+[2/20/2025 7:15 PM] Chance
+Like if the children were accompanied by a nanny,
+
+
+[2/20/2025 7:15 PM] Chance
+like it said that like it presented it as like them not having parents on board, even
+ though they have like an adult cardian.
+
+
+[2/20/2025 7:15 PM] Chance
+Let me find the seabourn.
+
+
+[2/20/2025 7:15 PM] Autumn
+So yeah, another layer of not really.
+
+
+[2/20/2025 7:15 PM] Autumn
+being informative.
+
+
+[2/20/2025 7:15 PM] Chance
+So yeah, it says...
+
+
+[2/20/2025 7:15 PM] Chance
+Yeah, so like the parach.
+
+
+[2/20/2025 7:15 PM] Chance
+column. Uh,
+
+
+[2/20/2025 7:16 PM] Chance
+So it defines family relations in this way.
+ Parent equals mother or father,
+ child equals daughter, son, stepdaughter, stepson.
+ Some children traveled only with a nanny,
+ therefore, a part equals zero for them.
+
+
+[2/20/2025 7:16 PM] Chance
+And then I'll drop this like data dictionary visual thing from categorical into our
+
+
+[2/20/2025 7:16 PM] Chance
+like.
+
+
+[2/20/2025 7:16 PM] Chance
+like group chat thread thing and
+
+
+[2/20/2025 7:16 PM] Chance
+problem.
+
+
+[2/20/2025 7:16 PM] Chance
+It also, I'll drop the link to
+
+
+[2/20/2025 7:16 PM] Chance
+So this is the GitHub.
+
+
+[2/20/2025 7:16 PM] Chance
+for, um,
+
+
+[2/20/2025 7:16 PM] Ashlyn
+that part was confusing to me even if they travelled w nanny they should still count as a kid right
+
+
+[2/20/2025 7:16 PM] Chance
+that Seaborn pulls data from?
+
+
+[2/20/2025 7:16 PM] Ashlyn
+nvm that was dumn
+
+
+[2/20/2025 7:16 PM] Chance
+like there's a lot more other data sets that are in here as well.
+
+
+[2/20/2025 7:16 PM] Ashlyn
+dumb
+
+
+[2/20/2025 7:16 PM] Chance
+If you ever want to.
+
+
+[2/20/2025 7:16 PM] Chance
+Look at those.
+
+
+[2/20/2025 7:17 PM] Kirstin
+I mean, it was like an unaccompanied minor or something if they didn't have.
+
+
+[2/20/2025 7:17 PM] Kirstin
+an actual parent.
+
+
+[2/20/2025 7:17 PM] Chance
+Yeah, so the way that the data set,
+
+
+[2/20/2025 7:17 PM] Kirstin
+That's weird.
+
+
+[2/20/2025 7:17 PM] Ashlyn
+but did that affect their survival?
+
+
+[2/20/2025 7:17 PM] Chance
+Yeah, it is, it is very strange, but I guess also you could.
+
+
+[2/20/2025 7:17 PM] Chance
+Blake.
+
+
+[2/20/2025 7:17 PM] Chance
+impute data.
+
+
+[2/20/2025 7:17 PM] Chance
+or you give the child, if a child is?
+
+
+[2/20/2025 7:17 PM] Chance
+is...
+
+
+[2/20/2025 7:17 PM] Chance
+like below a certain age.
+
+
+[2/20/2025 7:17 PM] Chance
+and does not have a parent associated with them.
+
+
+[2/20/2025 7:17 PM] Chance
+then like, it's...
+
+
+[2/20/2025 7:17 PM] Chance
+Thank you, Lake.
+
+
+[2/20/2025 7:17 PM] Chance
+think the values were one.
+
+
+[2/20/2025 7:17 PM] Chance
+but like one zero one two or zero one.
+
+
+[2/20/2025 7:17 PM] Chance
+I mean, like, add like another...
+
+
+[2/20/2025 7:17 PM] Chance
+future or like another value.
+
+
+[2/20/2025 7:17 PM] Chance
+but then also like.
+
+
+[2/20/2025 7:18 PM] Chance
+Honestly, that could be a good...
+
+
+[2/20/2025 7:18 PM] Chance
+A good way to make it a lot, make the data lie.
+ Also, there were...
+
+
+[2/20/2025 7:18 PM] Chance
+quite a few.
+
+
+[2/20/2025 7:18 PM] Chance
+I don't know if y'all probably knows this as well, there's about 17% of the data set that was missing.
+
+
+[2/20/2025 7:18 PM] Chance
+the age feature as well.
+
+
+[2/20/2025 7:18 PM] Ashlyn
+177 ppl missing age
+
+
+[2/20/2025 7:18 PM] Autumn
+I see that meow.
+
+
+[2/20/2025 7:18 PM] Ashlyn
+i didnt know what to do about that
+
+
+[2/20/2025 7:18 PM] Chance
+Yeah, I didn't think this.
+
+
+[2/20/2025 7:18 PM] Chance
+sibling
+
+
+[2/20/2025 7:18 PM] Chance
+is just the siblings.
+
+
+[2/20/2025 7:18 PM] Chance
+This is just the count.
+
+
+[2/20/2025 7:18 PM] Chance
+So I mean, that's also an interesting thing.
+
+
+[2/20/2025 7:18 PM] Chance
+future as well because there's no.
+
+
+[2/20/2025 7:18 PM] Chance
+like you could have somebody who has
+
+
+[2/20/2025 7:18 PM] Ashlyn
+i assumed bc the person they came with mightve died too or they travelled alone. prob not good data collection back then on ppl
+
+
+[2/20/2025 7:18 PM] Chance
+of like a high number for that.
+
+
+[2/20/2025 7:18 PM] Chance
+future.
+
+
+[2/20/2025 7:19 PM] Chance
+And theoretically is you.
+
+
+[2/20/2025 7:19 PM] Chance
+you have an adult.
+
+
+[2/20/2025 7:19 PM] Chance
+adult person, an adult man who's traveling with
+
+
+[2/20/2025 7:19 PM] Chance
+their adult brother.
+
+
+[2/20/2025 7:19 PM] Chance
+they both, like, end their parents are there.
+
+
+[2/20/2025 7:19 PM] Chance
+and they have steps of bling's leg.
+
+
+[2/20/2025 7:19 PM] Autumn
+You don't.
+
+
+[2/20/2025 7:19 PM] Autumn
+get a lot out of that.
+
+
+[2/20/2025 7:19 PM] Autumn
+We will not forget.
+
+
+[2/20/2025 7:19 PM] Chance
+puts, um,
+
+
+[2/20/2025 7:19 PM] Chance
+Yeah, it's like it's not super granular.
+ to take.
+
+
+[2/20/2025 7:19 PM] Chance
+Yeah, but I guess also in the same vein like the
+
+
+[2/20/2025 7:19 PM] Autumn
+And that's what I was thinking.
+
+
+[2/20/2025 7:19 PM] Chance
+parts features kind of the same because it can also represent parent or children.
+
+
+[2/20/2025 7:19 PM] Autumn
+Yeah, are you okay?
+
+
+[2/20/2025 7:19 PM] Chance
+Oh, yeah.
+
+
+[2/20/2025 7:19 PM] Autumn
+work with that since there's not a lot.
+
+
+[2/20/2025 7:19 PM] Autumn
+I was thinking.
+
+
+[2/20/2025 7:19 PM] Autumn
+You're an oboe.
+
+
+[2/20/2025 7:19 PM] Chance
+And I mean, even if we, I think the biggest thing is like even if we like
+
+
+[2/20/2025 7:19 PM] Chance
+Because it is.
+
+
+[2/20/2025 7:20 PM] Chance
+I wouldn't say it's a small data set, but like it's a...
+
+
+[2/20/2025 7:20 PM] Chance
+it's a small data set, look, it's a small data set, um,
+
+
+[2/20/2025 7:20 PM] Chance
+we're gonna have some overlap i think the thing that i kind of want to avoid is like
+
+
+[2/20/2025 7:20 PM] Ashlyn
+only so many visualizations we can do. gotta get creative lol
+
+
+[2/20/2025 7:20 PM] Chance
+If we're going to visualize some of the same like things, we're like trying to convey the
+
+
+[2/20/2025 7:20 PM] Chance
+the same things.
+
+
+[2/20/2025 7:20 PM] Chance
+do it and.
+
+
+[2/20/2025 7:20 PM] Chance
+different formats.
+
+
+[2/20/2025 7:20 PM] Chance
+Yeah, like not.
+
+
+[2/20/2025 7:20 PM] Chance
+Yeah, 117 people.
+
+
+[2/20/2025 7:20 PM] Chance
+17% is a 17%
+
+
+[2/20/2025 7:20 PM] Chance
+Um, hold on.
+
+
+[2/20/2025 7:20 PM] Chance
+for me.
+
+
+[2/20/2025 7:20 PM] Ashlyn
+177
+
+
+[2/20/2025 7:20 PM] Chance
+Bye bye.
+
+
+[2/20/2025 7:21 PM] Ashlyn
+
+
+{Attachments}
+https://cdn.discordapp.com/attachments/1342301599380410411/1342305050176917640/Screenshot_2025-02-20_at_7.20.58_PM.png?ex=67b9267e&is=67b7d4fe&hm=98005341f7acc4779a229072de1b37d2f6dbc8f870675aaae03793ecaff7afdd&
+
+
+[2/20/2025 7:21 PM] Chance
+So yeah, 20% of the data set, sorry, I messed up over there.
+
+
+[2/20/2025 7:21 PM] Chance
+I think that how I planned on approaching that was...
+
+
+[2/20/2025 7:21 PM] Chance
+filling it based
+
+
+[2/20/2025 7:21 PM] Chance
+on. Um, um,
+
+
+[2/20/2025 7:21 PM] Chance
+Average passenger class.
+
+
+[2/20/2025 7:21 PM] Chance
+of the passenger class.
+
+
+[2/20/2025 7:21 PM] Kirstin
+it makes sense.
+
+
+[2/20/2025 7:21 PM] Chance
+I don't know. I think so.
+
+
+[2/20/2025 7:21 PM] Chance
+I think the cool thing with like each of us having our own
+
+
+[2/20/2025 7:21 PM] Chance
+that like, we can kind of...
+
+
+[2/20/2025 7:21 PM] Chance
+talk about our own methodology for like how we...
+
+
+[2/20/2025 7:21 PM] Chance
+Filling missing values, deleting missing values.
+
+
+[2/20/2025 7:21 PM] Ashlyn
+can we summarize what each person will be visualizing in our text chat? just to keep up with it
+
+
+[2/20/2025 7:21 PM] Chance
+That's...
+
+
+[2/20/2025 7:22 PM] Chance
+We can do that in the thread, Ashlyn.
+
+
+[2/20/2025 7:22 PM] Chance
+Um.
+
+
+[2/20/2025 7:22 PM] Chance
+Lake.
+
+
+[2/20/2025 7:22 PM] Chance
+are honestly we'll just make it, we can make a separate thread. But yeah, but I definitely agree, I think we should, um,
+
+
+[2/20/2025 7:22 PM] Chance
+should like.
+
+
+[2/20/2025 7:22 PM] Chance
+do that, like, I think that.
+
+
+[2/20/2025 7:22 PM] Chance
+We all have ideas, just like drop them.
+
+
+[2/20/2025 7:22 PM] Chance
+And if you don't, that's cool.
+
+
+[2/20/2025 7:22 PM] Chance
+Just like.
+
+
+[2/20/2025 7:22 PM] Kirstin
+Yeah, I don't have anything yet.
+
+
+[2/20/2025 7:22 PM] Ashlyn
+ive done a few
+
+
+[2/20/2025 7:23 PM] Ashlyn
+but can change it up after we figure out who is doing what
+
+
+[2/20/2025 7:23 PM] Chance
+And then also I, let me see, I should have a thread.
+
+
+[2/20/2025 7:23 PM] Chance
+of.
+
+
+[2/20/2025 7:23 PM] Chance
+I pull up LinkedIn because I thought I'm pretty sure at one point I had a like a mega thread of different packages like we don't just have to use like map plot list.
+
+
+[2/20/2025 7:23 PM] Chance
+like we can think of other tools.
+
+
+[2/20/2025 7:23 PM] Chance
+But let me look up.
+
+
+[2/20/2025 7:23 PM] Chance
+at my share or my saved posts.
+
+
+[2/20/2025 7:23 PM] Chance
+they're looking for.
+
+
+[2/20/2025 7:23 PM] Chance
+Dave Dye Lums.
+
+
+[2/20/2025 7:23 PM] Chance
+can I not search these?
+
+
+[2/20/2025 7:24 PM] Chance
+into the
+
+
+[2/20/2025 7:24 PM] Chance
+the thread we currently have.
+
+
+[2/20/2025 7:24 PM] Chance
+Um...
+
+
+[2/20/2025 7:25 PM] Chance
+No.
+
+
+[2/20/2025 7:25 PM] Ashlyn
+is anyone talking i dont hear anythnig
+
+
+[2/20/2025 7:25 PM] Kirstin
+Oh, nobody's currently talking.
+
+
+[2/20/2025 7:25 PM] Chance
+Oh yeah, nobody is. Yeah.
+
+
+[2/20/2025 7:25 PM] Chance
+I thought I had like
+
+
+[2/20/2025 7:25 PM] Chance
+Bigger!
+
+
+[2/20/2025 7:25 PM] Chance
+Um.
+
+
+[2/20/2025 7:26 PM] Chance
+like creating visuals outside.
+
+
+[2/20/2025 7:26 PM] Chance
+of like packages that can like be useful for
+ Um.
+
+
+[2/20/2025 7:26 PM] Chance
+just like Matt Plotlib and Seaborn.
+
+
+[2/20/2025 7:26 PM] Chance
+looking for.
+
+
+[2/20/2025 7:26 PM] Chance
+Here's one.
+
+
+[2/20/2025 7:26 PM] Chance
+Yeah, I've dropped two so far.
+ I thought I had like a consolidated list somewhere, but I guess I don't.
+
+
+[2/20/2025 7:26 PM] Chance
+Um.
+
+
+[2/20/2025 7:26 PM] Chance
+The two I just dropped are bokeh and plotly.
+
+
+[2/20/2025 7:26 PM] Chance
+Um, the.
+
+
+[2/20/2025 7:26 PM] Chance
+you can see my screen, like they can make some cool things.
+
+
+[2/20/2025 7:26 PM] Chance
+that are kind of built off of
+
+
+[2/20/2025 7:26 PM] Kirstin
+crazy.
+
+
+[2/20/2025 7:27 PM] Chance
+Yeah, like plot Lee, where is this?
+
+
+[2/20/2025 7:27 PM] Autumn
+I just work online with that.
+
+
+[2/20/2025 7:27 PM] Chance
+These are all Python packages.
+
+
+[2/20/2025 7:27 PM] Autumn
+Oh, okay, I got it.
+
+
+[2/20/2025 7:27 PM] Chance
+Yeah, like we
+
+
+[2/20/2025 7:27 PM] Chance
+For our program, we tend to, I feel like we just use like map plotlib and
+
+
+[2/20/2025 7:27 PM] Chance
+extension seaborn.
+
+
+[2/20/2025 7:27 PM] Autumn
+All right.
+
+
+[2/20/2025 7:27 PM] Chance
+But like these are like some cool.
+
+
+[2/20/2025 7:27 PM] Chance
+tools that you can use.
+
+
+[2/20/2025 7:27 PM] Chance
+to um...
+
+
+[2/20/2025 7:27 PM] Chance
+like this is like a
+
+
+[2/20/2025 7:27 PM] Chance
+I guess more like a dashboard implementation, these are like...
+
+
+[2/20/2025 7:27 PM] Chance
+Walmart SuperCenter locations that have opened.
+
+
+[2/20/2025 7:27 PM] Chance
+And like it's interactive.
+
+
+[2/20/2025 7:27 PM] Chance
+kind of the same thing on bokeh, or bokeh, bokeh.
+
+
+[2/20/2025 7:27 PM] Chance
+I don't know what the exact pronunciation is.
+
+
+[2/20/2025 7:27 PM] Chance
+Ahhhhh..
+
+
+[2/20/2025 7:27 PM] Chance
+That's not what I wanted.
+
+
+[2/20/2025 7:28 PM] Chance
+Um.
+
+
+[2/20/2025 7:28 PM] Chance
+So like these are more for like
+
+
+[2/20/2025 7:28 PM] Chance
+like these are kind of like dashboard.
+
+
+[2/20/2025 7:28 PM] Chance
+like base, but like you can...
+
+
+[2/20/2025 7:28 PM] Chance
+We're adjusting the scale.
+
+
+[2/20/2025 7:28 PM] Chance
+as the user hovers over at adjusts.
+
+
+[2/20/2025 7:28 PM] Chance
+other plots.
+
+
+[2/20/2025 7:28 PM] Chance
+It's super cool.
+
+
+[2/20/2025 7:28 PM] Chance
+Oh, keep forgetting to keep
+
+
+[2/20/2025 7:28 PM] Chance
+the transcript.
+
+
+[2/20/2025 7:28 PM] Chance
+and just in case.
+
+
+[2/20/2025 7:28 PM] Chance
+Ashlands is anything.
+
+
+[2/20/2025 7:29 PM] Chance
+How is everybody feeling?
+
+
+[2/20/2025 7:29 PM] Kirstin
+I think it just sounds like
+
+
+[2/20/2025 7:29 PM] Kirstin
+like we're supposed to kind of do our own thing.
+
+
+[2/20/2025 7:29 PM] Ashlyn
+i feel good too
+
+
+[2/20/2025 7:29 PM] Chance
+I think that this one is more independent, but then we're supposed to collaborate on what we learn.
+
+
+[2/20/2025 7:29 PM] Chance
+So maybe that's something that like...
+
+
+[2/20/2025 7:29 PM] Ashlyn
+i dont think itll take too long either
+
+
+[2/20/2025 7:29 PM] Chance
+We don't have a conclusion in the traditional sense to our report, but it is more of a like.
+
+
+[2/20/2025 7:29 PM] Chance
+I don't think so, we'll either.
+
+
+[2/20/2025 7:29 PM] Autumn
+that it seems on here like
+
+
+[2/20/2025 7:29 PM] Autumn
+and finally share and review visualizations.
+
+
+[2/20/2025 7:29 PM] Autumn
+their effectiveness and areas for our movement.
+
+
+[2/20/2025 7:29 PM] Autumn
+and then agricultural implications.
+
+
+[2/20/2025 7:29 PM] Autumn
+I'm not sure what ethical implications come from this.
+
+
+[2/20/2025 7:30 PM] Autumn
+status that quite yet?
+
+
+[2/20/2025 7:30 PM] Chance
+I mean, I think.
+
+
+[2/20/2025 7:30 PM] Autumn
+Because we believe they're not human subjects, right?
+
+
+[2/20/2025 7:30 PM] Chance
+Hahaha.
+
+
+[2/20/2025 7:30 PM] Chance
+I mean, I think that's the big thing is, is like...
+
+
+[2/20/2025 7:30 PM] Chance
+kind of what he was talking about towards the end of class league.
+
+
+[2/20/2025 7:30 PM] Chance
+being able to.
+
+
+[2/20/2025 7:30 PM] Chance
+to like.
+
+
+[2/20/2025 7:30 PM] Chance
+to take apart why.
+
+
+[2/20/2025 7:30 PM] Chance
+something is either misleading or could be misinterpreted.
+
+
+[2/20/2025 7:30 PM] Chance
+And whether or not it's intentional, I think it's like an important skill to kind of learn and gain.
+
+
+[2/20/2025 7:30 PM] Kirstin
+Definitely.
+
+
+[2/20/2025 7:30 PM] Chance
+So I think that that's kind of...
+
+
+[2/20/2025 7:30 PM] Chance
+what the
+
+
+[2/20/2025 7:30 PM] Chance
+Scope is here because the status.
+
+
+[2/20/2025 7:30 PM] Chance
+That is like...
+
+
+[2/20/2025 7:30 PM] Chance
+Easy.
+
+
+[2/20/2025 7:30 PM] Chance
+so like approachable.
+
+
+[2/20/2025 7:30 PM] Autumn
+mm-hmm.
+
+
+[2/20/2025 7:31 PM] Ashlyn
+so lets talk tomorrow in the chat about who is doing what
+
+
+[2/20/2025 7:31 PM] Chance
+I see Ashlyn typing Seminek, let her finish and then we'll probably be good to hop off.
+ And then what I'll do is I will...
+
+
+[2/20/2025 7:31 PM] Chance
+Um, yeah, so...
+
+
+[2/20/2025 7:31 PM] Chance
+once you have if you have ideas
+
+
+[2/20/2025 7:31 PM] Chance
+drop them in the thread.
+
+
+[2/20/2025 7:31 PM] Chance
+for like what like features you want to use or whatnot,
+ or if there's specific plots that you have in mind,
+ like type like,
+
+
+[2/20/2025 7:31 PM] Chance
+chart types that you want to use.
+
+
+[2/20/2025 7:31 PM] Chance
+Um.
+
+
+[2/20/2025 7:31 PM] Chance
+lives in there as well.
+
+
+[2/20/2025 7:31 PM] Chance
+We will kind of go from there.
+
+
+[2/20/2025 7:31 PM] Kirstin
+And I'm scared.
+
+
+[2/20/2025 7:31 PM] Chance
+And then also tonight.
+
+
+[2/20/2025 7:31 PM] Chance
+I will, so once we're off of this, I will...
+
+
+[2/20/2025 7:31 PM] Chance
+go to... um...
+
+
+[2/20/2025 7:32 PM] Chance
+download this transcript, fix some of the minor grammar, like mainly just like giving everybody
+ like names.
+
+
+[2/20/2025 7:32 PM] Chance
+And then I will
+
+
+[2/20/2025 7:32 PM] Ashlyn
+thanks!
+
+
+[2/20/2025 7:32 PM] Chance
+um
+
+
+[2/20/2025 7:32 PM] Kirstin
+I think I said, I'm scared you can take that out.
+
+
+[2/20/2025 7:32 PM] Chance
+Now I'll make sure to bold that.
+
+
+[2/20/2025 7:32 PM] Chance
+I'm bold and underline
+
+
+[2/20/2025 7:32 PM] Kirstin
+Thank you.
+
+
+[2/20/2025 7:32 PM] Kirstin
+Hahaha.
+
+
+[2/20/2025 7:32 PM] Chance
+And so did he say that he wants the transcripts as well or just the summaries?
+
+
+[2/20/2025 7:32 PM] Autumn
+Yes, no, that was I was going to ask that so thanks for bringing that up in Ashlyn or Carson correct me if I'm wrong, but that
+
+
+[2/20/2025 7:32 PM] Autumn
+that's what he was saying last time he wanted both he doesn't necessarily like he's gonna have to go through the word for word transcript but he wants it
+ there just in case there's anything weird that pops out.
+
+
+[2/20/2025 7:32 PM] Chance
+I mean, what I'll do then is I will edit this to make to get rid of everybody's user names.
+
+
+[2/20/2025 7:32 PM] Chance
+And then I'll just like.
+
+
+[2/20/2025 7:32 PM] Chance
+send that through like chat GP.
+
+
+[2/20/2025 7:33 PM] Chance
+And then all.
+
+
+[2/20/2025 7:33 PM] Chance
+And then
+
+
+[2/20/2025 7:33 PM] Chance
+Do we also have to submit the winner?
+
+
+[2/20/2025 7:33 PM] Chance
+Well, that's up.
+
+
+[2/20/2025 7:33 PM] Chance
+Something that he wants.
+
+
+[2/20/2025 7:33 PM] Ashlyn
+i dont think anything is due
+
+
+[2/20/2025 7:33 PM] Kirstin
+I don't know, I don't know, with the deadline on that.
+
+
+[2/20/2025 7:33 PM] Kirstin
+Let me see.
+
+
+[2/20/2025 7:33 PM] Chance
+For some reason I thought that it was like...
+
+
+[2/20/2025 7:33 PM] Chance
+Well, it's like, there's nothing to in D2L.
+
+
+[2/20/2025 7:33 PM] Chance
+but like, I thought he said that he wanted the...
+
+
+[2/20/2025 7:33 PM] Ashlyn
+maybe to be safe?
+
+
+[2/20/2025 7:33 PM] Chance
+the links to the GitHub repository yourself.
+
+
+[2/20/2025 7:33 PM] Chance
+something.
+
+
+[2/20/2025 7:33 PM] Kirstin
+on the same.
+
+
+[2/20/2025 7:33 PM] Kirstin
+We'll do that. See ya.
+
+
+[2/20/2025 7:34 PM] Kirstin
+Yeah, a link to your OneDrive Slashword document.
+ Make sure you keep Trebleau Blah, Track Changes.
+
+
+[2/20/2025 7:34 PM] Kirstin
+You should submit this as soon as it is created.
+
+
+[2/20/2025 7:34 PM] Chance
+Okay, so what I'll do is one side.
+
+
+[2/20/2025 7:34 PM] Kirstin
+And then a link to your GitHub repository, so I would just do both them, I guess.
+
+
+[2/20/2025 7:34 PM] Chance
+Yeah, so what I'll do is once we're all off this call, I will.
+
+
+[2/20/2025 7:34 PM] Chance
+do what I need to, and then
+
+
+[2/20/2025 7:34 PM] Chance
+that will have...
+
+
+[2/20/2025 7:34 PM] Chance
+That should be everything.
+
+
+[2/20/2025 7:34 PM] Chance
+And then I'll just do what I did last time and I'll upload a
+
+
+[2/20/2025 7:34 PM] Autumn
+Thank you!
+
+
+[2/20/2025 7:34 PM] Chance
+So we're docking it with Z.
+
+
+[2/20/2025 7:34 PM] Chance
+Get Hubblink.
+
+
+[2/20/2025 7:34 PM] Kirstin
+Sounds good.
+
+
+[2/20/2025 7:34 PM] Chance
+Awesome!
+
+
+[2/20/2025 7:34 PM] Chance
+All right, well, I hope you all have a good night and Ashland, I hope you get to feel
+
+
+[2/20/2025 7:34 PM] Autumn
+Yeah!
+
+
+[2/20/2025 7:34 PM] Ashlyn
+thank you sm!!
+
+
+[2/20/2025 7:34 PM] Kirstin
+Yeah, so I hope everyone who's not feeling good feels better.
+
+
+[2/20/2025 7:35 PM] Chance
+Yeah, and same to your husband and your daughter as well.
+
+
+[2/20/2025 7:35 PM] Autumn
+Hi, everybody.
+
+
+[2/20/2025 7:35 PM] Ashlyn
+bye thanks yall
+
+
+[2/20/2025 7:35 PM] Kirstin
+Kirstin disconnected
+
+
+[2/20/2025 7:35 PM] Chance
+Chance disconnected
+
+
+[2/20/2025 7:35 PM] Autumn
+Autumn disconnected
+
+
+==============================================================
+Exported 426 message(s)
+==============================================================
