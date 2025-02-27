@@ -1,0 +1,1185 @@
+[Chance]:  And there we go.
+
+[Chance]:  All right, so how's everybody?
+
+[Chance]:  everybody's plots come out good or I guess bad in whichever case.
+
+[Kirstin]:  That good. Yes.
+
+[Kirstin]:  Thank you.
+
+[Autumn]:  Yeah, I think so. Well, like you were
+ Um.
+
+[Autumn]:  same chance with like some of the the basics so that's
+
+[Autumn]:  The row I kind of decided to go, too, was like.
+
+[Autumn]:  If you keep it simple, make something that's bad, but not obvious.
+
+[Autumn]:  I mean, one of mine in my coding is really bad, it looks.
+
+[Autumn]:  completely like a barcode. I was like, oh, that's kind of fun to just, you know, leave
+ in my notebook.
+
+[Chance]:  See you.
+
+[Autumn]:  Um.
+
+[Kirstin]:  I have one that's like really bad that like I had asked like chat GBT for like ideas and one of the ones that it suggested. I was like, oh my god, this is so bad.
+ Thank you.
+
+[Chance]:  Yeah. So, Kristen, what were you talking about before you joined in the two plots that I posted?
+ Um.
+
+[Chance]:  We're using the deck feature.
+
+[Chance]:  that 77% of the data set was missing 77% of all use more.
+
+[Kirstin]:  Oh no.
+
+[Chance]:  I was like, I was like, oh, this is cherry picks.
+
+[Kirstin]:  Absolutely.
+
+[Chance]:  Let's see how this impacts link survival rate.
+
+[Chance]:  And it's like
+
+[Kirstin]:  Thank you.
+
+[Kirstin]:  Also the graph is just like the line graph is just impossible to read and like oh my gosh I love it.
+ Hahaha!
+
+[Chance]:  It's it's no ugly like I love it. It's my favorite.
+
+[Chance]:  But like the...
+
+[Kirstin]:  Like, wow, this is great.
+
+[Chance]:  So it's like this is a rival rate by passenger class for like
+
+[Chance]:  The cherry pick data is like 66% for class one 81% survival rate for class two and then
+
+[Chance]:  Um.
+
+[Chance]:  50% survival rate for class three.
+
+[Chance]:  Compare that to like the full data like the actual survival rate, so it's like
+
+[Chance]:  Class 1 was 63%, Class 2 was 47%, Class 3 was 24%.
+
+[Chance]:  some funny stuff.
+
+[Chance]:  Um, so do we, I guess?
+
+[Chance]:  Do we just want to go through and lag?
+
+[Chance]:  everybody post what their good chart and their bad charts were.
+
+[Ashlyn]:  in the chat.
+
+[Chance]:  And then we can kind of pick from there.
+
+[Autumn]:  Yeah, yeah, so I am now on the Google
+
+[Autumn]:  I had put like one good and one bad
+
+[Autumn]:  Like we were in it.
+
+[Autumn]:  talking about, we're just picking...
+
+[Autumn]:  one.
+
+[Chance]:  Like one from each person.
+
+[Chance]:  And me. Yeah.
+
+[Autumn]:  from each person.
+ Yeah, so you're talking about like the way through the code
+ and looking at our
+
+[Chance]:  Well, like here, I guess what we can do is we can just do that, like, I'll post my good and then I'll post my bad.
+
+[Autumn]:  mm-hmm.
+
+[Chance]:  So I've already got both of my good ones in.
+
+[Chance]:  then...
+
+[Chance]:  uh... and these are my bad ones
+
+[Chance]:  And then I guess we can just, let's just, we can just go through.
+
+[Chance]:  the document end.
+
+[Chance]:  kind of go from there.
+
+[Kirstin]:  dinner and a bowl.
+
+[Kirstin]:  So she can tell me and get it.
+
+[Ashlyn]:  I think.
+
+[Ashlyn]:  that one of the bad ones could be.
+
+[Chance]:  The wine graph.
+
+[Ashlyn]:  in the chat to the survival rate by deck.
+ So that's it.
+
+[Chance]:  So I can write out more about that one.
+
+[Autumn]:  Yeah, I
+
+[Autumn]:  I like that one as well.
+
+[Chance]:  It's, it's so ugly, like,
+
+[Chance]:  It's so bad.
+ Thank you.
+
+[Kirstin]:  the one that I put in the video.
+
+[Kirstin]:  having there right now.
+
+[Kirstin]:  Um.
+
+[Kirstin]:  I just, I did them like, I guess, kind of side by side to compare.
+
+[Kirstin]:  So they don't take that much space and I'm not like addressing them separately, but so what I currently have is the is the bad one for the survivor count by class.
+
+[Kirstin]:  which totally ignores everyone who died
+ and just compares the amount of survivors.
+
+[Kirstin]:  even though like the second graph is everyone and you can see like the disparity in
+
+[Kirstin]:  dead people. So that's what I have in there now.
+
+[Kirstin]:  other good ones that I had. Let me see.
+
+[Kirstin]:  One second here.
+
+[Kirstin]:  That was really the best one, but I had, yeah, that was really the best good one was the one on the right there.
+
+[Kirstin]:  other bad ones that I had.
+
+[Kirstin]:  This was the one that
+
+[Kirstin]:  that GBT suggested and I kind of modified its hilarious and it's like really hard to understand.
+
+[Kirstin]:  which is, you know, is the best, hang on.
+
+[Kirstin]:  Let me put it in here.
+
+[Kirstin]:  That's that one.
+
+[Kirstin]:  Oh, man.
+
+[Chance]:  Oh.
+
+[Kirstin]:  You.
+
+[Chance]:  Yeah, that.
+
+[Autumn]:  Okay, let me get it.
+
+[Kirstin]:  It's so great.
+ Hahaha!
+
+[Chance]:  Yeah, that is.
+
+[Kirstin]:  It's so great. I'm like, wow, this amazing.
+ It's so great. I'm like, wow, this amazing.
+ It's so great. I'm like, wow, this amazing.
+ It's so great. I'm like, wow, this amazing.
+ Ha ha!
+
+[Kirstin]:  So it has like two axes with completely different scales and so like, it's hard to read and like if you're not careful you might think that like 60% of the third class passengers like survived, but really it's like 20.
+
+[Autumn]:  Thank you.
+
+[Kirstin]:  I am here.
+
+[Kirstin]:  I put it there, like...
+
+[Chance]:  Also, I just love the, um, the legend in the middle of the graph, like, blue survivors, and then
+ Thank you.
+
+[Kirstin]:  It was in a different place and I kept moving it around.
+
+[Kirstin]:  But there was nowhere that I didn't cover up thing.
+ So like it was first up in like the top left
+ and it was covering up like the top point.
+
+[Kirstin]:  And part of the title, and so I finally just moved it to the middle and was like,
+ no, what? Screw it. Like, it should just stay there. At least you can now see everything.
+
+[Autumn]:  That's a good one, I mean, but the cherry picked data.
+
+[Autumn]:  is also really good and then showing the side by side I like that too because it's
+
+[Autumn]:  It's bad, but you don't notice that it's bad.
+
+[Autumn]:  so you don't know what you're looking for.
+
+[Kirstin]:  Yeah, it's not as obviously terrible.
+
+[Kirstin]:  as the other one, which is like clearly just awful, but this one is like something that you might actually see somewhere.
+
+[Autumn]:  Right.
+
+[Kirstin]:  Um.
+
+[Kirstin]:  for those.
+
+[Autumn]:  The second one is fun, like, it's fun bad.
+
+[Kirstin]:  I know, I just put it, I left it in there and I was like, Oh, this is amazing. I like, I'm probably not going to use it because it's just like outrageous, but it was hilarious so
+
+[Kirstin]:  And then I put them like the right graph in the document with the bad one just so that I could kind of compare and like explain.
+
+[Kirstin]:  out was misleading, but I just addressed them both together and that way it only took up like one page.
+
+[Autumn]:  Now, I'm going to document, like I said, I have one good and one.
+
+[Autumn]:  Bad, do you want me to drop the other two in the chat or just like paste them on this document really quickly?
+
+[Chance]:  Well, I would just say a piston on the document.
+
+[Autumn]:  Okay, be done.
+
+[Chance]:  Any whatever is easier.
+
+[Autumn]:  Yeah, that's fine. I've got it pulled up. That's why I wasn't sure where everybody was looking or what they had pulled up.
+
+[Autumn]:  We see, okay.
+
+[Autumn]:  Oh, this is actually another good one.
+
+[Autumn]:  Okay, so I have a bar chart which I did a bit of a description for and then this histogram which is kind of boring but
+
+[Autumn]:  Um.
+
+[Autumn]:  I thought that was another good one, because it more accurately represented the way that fairs were grouped.
+
+[Autumn]:  Thank you very much.
+
+[Autumn]:  let me um so because I've got I've got explanation of course in my notebook and that is something
+ I didn't want to ask you all about before I left so for that really quickly if I can pivot the
+ individual part
+
+[Autumn]:  when he says our, um,
+
+[Autumn]:  an explanation.
+
+[Autumn]:  using paragraphs. The way I read it, like, we just have our
+
+[Autumn]:  individual notebooks uploaded, correct? We don't need to do it.
+
+[Chance]:  Yeah, that's how I interpret that as well.
+
+[Autumn]:  a separate work document or okay good okay I was like oh my gosh
+
+[Chance]:  Like basically like like creating your plot, explaining why it's good or bad like
+
+[Chance]:  Like what?
+
+[Autumn]:  We'll be in part.
+
+[Chance]:  Insights could like be drawn from it good or bad.
+
+[Autumn]:  Okay, cool. That's that's what I did. I just did it in Mark down and it was like me and did I mess that up like was to create a whole new
+
+[Autumn]:  Okay.
+
+[Kirstin]:  Yeah, that's what I did. We just did it in Mark Down for each of the graphs that I created in the notebook.
+
+[Autumn]:  It makes me feel better.
+
+[Autumn]:  All right, and then
+
+[Autumn]:  This one, so again this is one history, it's not horrible, but it was been differently and it didn't have the borders around the bin.
+
+[Autumn]:  So again, it's like,
+
+[Autumn]:  If you don't know what you're looking at or what to look for, that could be misleading.
+ And then I have one more. This was my fun. Oh.
+
+[Autumn]:  Let's see. This is, this is fun, but it's, I don't think it's like as fun bad as what we've already seen.
+
+[Autumn]:  So I'm not advocating for this one to be a bad one, but I will show you all what I have.
+
+[Autumn]:  There's one that looks like a grocery store bar code if you all can see it.
+
+[Kirstin]:  Thank you.
+
+[Autumn]:  So it was survival rate by fair and it's like
+
+[Autumn]:  because the fare the tickets were all
+
+[Kirstin]:  Oh my God.
+
+[Autumn]:  like off by Chen and yeah a platinum all like that you can tell nothing I was like
+ oh that's that was interesting
+
+[Chance]:  Yeah.
+
+[Kirstin]:  My goodness.
+
+[Autumn]:  You can't even read the bottom access, it's a mess.
+
+[Kirstin]:  Nope, the other ones.
+
+[Kirstin]:  be terrible.
+
+[Autumn]:  It was pretty. Some of the pretty ones, even on those website, the way he's are.
+
+[Autumn]:  kind of beautiful but I don't know what they mean in any kind of way. That's how it felt about this.
+
+[Ashlyn]:  just like you buy was.
+
+[Autumn]:  new home.
+
+[Ashlyn]:  the good and the bad ones. We can all go through which ones we would pick. I would pick, so
+ on me I would pick the 3D.
+
+[Ashlyn]:  Survival by gender.
+
+[Autumn]:  Thank you.
+
+[Ashlyn]:  That's, that would be the bad one.
+
+[Autumn]:  mm.
+
+[Ashlyn]:  And then just going down, I'll choose Autumn's very first craft to be one of the good ones.
+
+[Ashlyn]:  And then...
+
+[Chance]:  Thank you.
+
+[Ashlyn]:  for a chance I would pick the crazy one at the bottom.
+
+[Ashlyn]:  Be one of the bad ones.
+
+[Ashlyn]:  And then, cursor, cursor, I would choose the very right,
+
+[Ashlyn]:  and that you have survival by best in your class
+ to be one of the good ones.
+
+[Kirstin]:  Gotcha.
+
+[Chance]:  And then what we can do is like we can put your graph.
+
+[Chance]:  uh, Kristen like at the end and then mine can go
+
+[Chance]:  After yours.
+
+[Chance]:  kind of like a similar
+
+[Chance]:  not quite the same, but like it's the same like similar features.
+
+[Kirstin]:  Yeah.
+
+[Chance]:  And then I can basically introduce Minus Lake.
+
+[Chance]:  as well, we also did this, and here's why it's not great.
+
+[Kirstin]:  Yeah, here's science sucks.
+
+[Chance]:  Because like, what I'll also include.
+
+[Chance]:  I will create
+
+[Chance]:  a table to go along with.
+
+[Chance]:  Um.
+
+[Chance]:  Mine
+
+[Chance]:  kind of what I discussed earlier about like the,
+
+[Chance]:  Um.
+
+[Chance]:  Survival rate.
+
+[Kirstin]:  Yeah. What are the instructions saying?
+
+[Kirstin]:  Thanks for here.
+
+[Kirstin]:  Yeah, I just says.
+
+[Kirstin]:  It doesn't say like what to put in there it just says.
+
+[Kirstin]:  a summary of the data set description of the visualizations and their implications.
+ Like it doesn't say how many, like it.
+
+[Chance]:  Yeah, like the way I look, it's like the individual work.
+
+[Chance]:  That's like group work.
+
+[Chance]:  um...
+
+[Chance]:  He's a shared word document to collaboratively write the final report including summary of the days.
+
+[Chance]:  Yeah, so I'm thinking it's just we have to...
+
+[Kirstin]:  This kind of shoes a few.
+
+[Chance]:  like pick the best of the worst, or like the best of the best of the worst, yeah.
+
+[Chance]:  And I think that the way that we're approaching it is...
+
+[Chance]:  It makes sense because it's like we have
+
+[Chance]:  each like, we pick something from each person.
+
+[Chance]:  So we allow each person to kind of leg.
+
+[Chance]:  show their contribution.
+
+[Chance]:  and then also on top of that, Lake.
+
+[Chance]:  like we've selected the best ones and the worst ones of our group.
+
+[Chance]:  So I think that, I think that the way that we're attacking it,
+
+[Chance]:  make sense.
+
+[Autumn]:  No, that sounds good to me, I just deleted all of them.
+
+[Autumn]:  my visualizations and things from the Google doc.
+
+[Autumn]:  except for the good one.
+
+[Autumn]:  Like is that what we're turning into the final PDF like we did last time?
+
+[Chance]:  Yeah, so I think like
+
+[Chance]:  If you're able to read this, because I like, I added a little bit more to the introduction.
+
+[Chance]:  Like, our analysis will be divided into...
+
+[Chance]:  two sections, like accurate visualizations and misleading
+ visualizations, I'm going to just change that right fast.
+ And then we can add like,
+
+[Chance]:  Accurate virtualizations
+
+[Chance]:  And then we can still do our light.
+
+[Chance]:  person breakdown, like what we did last time.
+
+[Chance]:  So I would say as long as your part is...
+
+[Chance]:  like at least a page.
+
+[Chance]:  like, we shouldn't be good, you know?
+
+[Autumn]:  Okay, yeah, I'm just going to um
+
+[Autumn]:  after I'll probably add to my um
+
+[Chance]:  Yeah.
+
+[Autumn]:  You're a graph in rearrange since I had both on there, and I was talking about a comparison, which doesn't really make sense anymore.
+
+[Autumn]:  Ah!
+
+[Autumn]:  So yeah, what?
+
+[Kirstin]:  Yeah, minus the comparison too, so I don't know.
+
+[Chance]:  then
+
+[Chance]:  Yeah.
+
+[Autumn]:  which is fine. I was just making a statement about like I just have to change that.
+
+[Autumn]:  My last little paragraph.
+
+[Autumn]:  or at, you know, um,
+
+[Autumn]:  not sure then how we want to like talk about the explanations.
+
+[Autumn]:  We all kind of did ours a little bit differently.
+
+[Kirstin]:  Be now.
+
+[Chance]:  Yeah.
+
+[Chance]:  Uh-huh.
+
+[Chance]:  Now that is a good point.
+
+[Kirstin]:  There's your table.
+
+[Chance]:  Yeah, I just put it in a table.
+
+[Chance]:  Ah, tch.
+
+[Autumn]:  Thank you.
+
+[Autumn]:  Well in-chance, I think you're typing cursons since we both had bargrow.
+
+[Autumn]:  I don't know are you on the google doc?
+
+[Autumn]:  so my paragraph where I was talking about like the
+
+[Autumn]:  Good and the bad I'm wondering if I could just change kind of like the top sentence and talk about like
+
+[Autumn]:  our biographs, the importance of showing,
+ good visualizations, excuse me, can't talk.
+
+[Autumn]:  why that's important and then just continue on about like how the right visualization provides a
+ reader with an image that
+
+[Autumn]:  does all the things and quotes one of them.
+
+[Autumn]:  articles.
+
+[Autumn]:  So I think I can adapt that and kind of talk about both of our bar graphs.
+
+[Autumn]:  and the importance of good visualization if everyone is okay with that.
+
+[Ashlyn]:  That's fine.
+
+[Kirstin]:  Yeah.
+
+[Autumn]:  Or I don't, you know, I don't know, again, any thoughts or if this needs to be just part of like the conclusion paragraph.
+
+[Kirstin]:  I think it would be good in the conclusion.
+
+[Autumn]:  Okay, I mean, so
+
+[Autumn]:  I just want to make sure I'm understanding, you know, what everyone.
+
+[Autumn]:  and on the same page, so would this be okay to just bring down as part of the
+ conclusion?
+
+[Autumn]:  and like have this is like a good piece and then
+
+[Autumn]:  someone can type up a little something about, like...
+
+[Autumn]:  the the bad pieces.
+
+[Kirstin]:  Yeah.
+
+[Chance]:  Yeah!
+
+[Chance]:  It's all on me.
+
+[Chance]:  I kind of get these two.
+
+[Autumn]:  Thank you.
+
+[Chance]:  it onto the same line.
+
+[Autumn]:  Thank you.
+
+[Chance]:  I will be his nut, put it on the same white.
+
+[Autumn]:  So I hope that didn't...
+
+[Chance]:  Oh, no, no, you're good.
+
+[Autumn]:  Thank you very much.
+
+[Chance]:  Wait, I could just do this, actually.
+
+[Ashlyn]:  Thank you.
+
+[Chance]:  Thank you.
+
+[Chance]:  actually it's revival rule 63%
+ 3%
+
+[Chance]:  for the 7% and...
+
+[Ashlyn]:  Thank you.
+
+[Kirstin]:  your chart is in their twice chance.
+
+[Chance]:  Oh, um, yeah, I...
+
+[Chance]:  Yeah, hold on.
+ Um.
+
+[Chance]:  the madding one more thing.
+
+[Kirstin]:  Oh, different ones.
+
+[Kirstin]:  different chart.
+
+[Chance]:  Yeah, I'm adding the password.
+
+[Chance]:  the passenger count.
+
+[Chance]:  of each to distribute or to showcase, like, how imbalanced it is.
+
+[Kirstin]:  Okay, of course.
+
+[Chance]:  uh so 173.
+
+[Chance]:  And you'll see here in a sec why it's like kind of wild.
+
+[Chance]:  Yeah, so.
+
+[Kirstin]:  16, 2, 12.
+ Hahaha!
+
+[Kirstin]:  I don't mean that.
+
+[Chance]:  Compute to you.
+
+[Chance]:  2,4,10.
+
+[Chance]:  184
+
+[Chance]:  We're in the D1.
+
+[Kirstin]:  is that helpful?
+
+[Chance]:  So yeah.
+
+[Chance]:  a little and balanced.
+
+[Kirstin]:  quite so.
+
+[Chance]:  and tt tt tt
+
+[Chance]:  I'm gonna copy this back into my notebook
+
+[Chance]:  Thank you.
+
+[Chance]:  The day...
+
+[Chance]:  And I think what I'll do is I'll be able to work on the PowerPoint tomorrow.
+
+[Chance]:  Um.
+
+[Chance]:  Obviously, like my bigger concern is like getting
+
+[Chance]:  this.
+
+[Chance]:  uploaded like the PDF uploaded.
+
+[Chance]:  Um.
+
+[Chance]:  Oh, no.
+
+[Autumn]:  that on this evening. And as you said, it had been a long day at work.
+
+[Chance]:  Oh no, I mean like, because once, once everybody's stuff is in, like it's just a matter of like exporting and whatnot.
+
+[Chance]:  It doesn't take long at all.
+
+[Autumn]:  Okay, well, thank you.
+
+[Chance]:  Yeah, no, not a problem.
+
+[Ashlyn]:  Thank you.
+
+[Ashlyn]:  Hopefully it doesn't choose autumn again.
+
+[Chance]:  Honestly, I think what's gonna take the-
+
+[Autumn]:  Bye.
+
+[Chance]:  haha.
+
+[Autumn]:  What was it? Maybe he was running later something happened and I think there was at least one other person that was chosen last week
+
+[Autumn]:  Um, and I'm like, maybe he just used the same less.
+ He just looked down and was like, let me just use the same people.
+
+[Chance]:  Uh, tt-tt
+
+[Chance]:  Yeah.
+
+[Chance]:  But t-t-t-t-t-t-t-t-t, I'm trying to think.
+
+[Kirstin]:  leave it the way that it is or should I only talk about one of these two graphs?
+
+[Ashlyn]:  I think we just do it one per person.
+
+[Autumn]:  I know that's what I'm trying to look at with mine because I...
+
+[Autumn]:  I took it out and I moved the one paragraph into the conclusion, so now I just really have
+ more of a bullet pointed outline about what may.
+
+[Autumn]:  Graph is effective versus
+
+[Kirstin]:  Yeah, it's a lot easier to compare.
+
+[Autumn]:  Yeah.
+
+[Kirstin]:  like one versus another.
+
+[Autumn]:  We will. So maybe I don't know how.
+
+[Autumn]:  Again, everyone is is feeling about.
+
+[Autumn]:  the explanation of our own individual graphs.
+
+[Autumn]:  We said um...
+
+[Autumn]:  I don't know. Are bullet, do you think bullet points are okay?
+
+[Kirstin]:  I really don't know.
+
+[Autumn]:  I know how anyone else had
+
+[Autumn]:  Um.
+
+[Autumn]:  Okay.
+
+[Chance]:  think they should... I think they can be fine. I'm not...
+
+[Ashlyn]:  Thank you very much.
+
+[Chance]:  I'm not sure.
+
+[Chance]:  And right now you're at.
+
+[Chance]:  Right now we're at eight pages.
+
+[Autumn]:  Okay.
+
+[Autumn]:  I don't want to leave anyone to like, look at this and be like,
+ on them, what did you do? I have to clean this up.
+
+[Autumn]:  at the same time, you know?
+
+[Autumn]:  I don't want to make this like
+
+[Autumn]:  a research paper.
+
+[Autumn]:  If we can effectively, you know, kind of wrap up the individual pieces with the people at points and then have like the conclusion part
+ Bye!
+
+[Chance]:  Yeah.
+
+[Ashlyn]:  We like to do the good ones.
+
+[Ashlyn]:  first and then the bad one.
+
+[Autumn]:  of what I was thinking and then um
+
+[Autumn]:  So again, Kristen, don't let me steer you in the wrong direction.
+
+[Autumn]:  I know if you wanted to just kind of...
+
+[Autumn]:  Let some of your main points.
+
+[Autumn]:  bear the visualization.
+
+[Autumn]:  in a few bullet points, right under your craft.
+
+[Kirstin]:  Okay, so you want me to just do the good one?
+
+[Autumn]:  Well.
+
+[Autumn]:  Let me stop there. That was my peace on what was happening.
+
+[Autumn]:  because chances in, um,
+
+[Autumn]:  I know you had talked about putting your graph either before or after.
+
+[Chance]:  So I think that,
+
+[Chance]:  I think that, Kirsten, I think you can leave yours the same.
+
+[Chance]:  because yours kind of set like you have.
+
+[Chance]:  A good plot and a bad plot, there.
+
+[Chance]:  Like you kind of talk about both.
+
+[Chance]:  So I think put yours at the end of the accurate visual section.
+
+[Chance]:  which would
+
+[Autumn]:  that leads into the bad visualization that you're
+
+[Chance]:  that I'm typing right now.
+
+[Autumn]:  God yeah.
+
+[Chance]:  New Year.
+
+[Kirstin]:  So move it like farther up somewhere before you.
+
+[Chance]:  Yeah, move it above, yeah, move it right above misleading visualizations.
+
+[Kirstin]:  I got it.
+
+[Autumn]:  Okay, I'm reading.
+
+[Chance]:  Yes.
+
+[Autumn]:  Okay, in mine, I guess then, would go first and then Ashlyn would go.
+
+[Autumn]:  before.
+
+[Chance]:  after mine.
+
+[Autumn]:  or F, okay.
+
+[Chance]:  So the Ashlands, I think, is the 3D...
+
+[Chance]:  bar plot, right?
+
+[Kirstin]:  Yeah, the bad ones.
+
+[Chance]:  But yeah, that is.
+
+[Chance]:  something.
+
+[Chance]:  That's, that is another way.
+
+[Kirstin]:  It is definitely something.
+
+[Kirstin]:  Oh.
+
+[Chance]:  Yeah, like what is?
+
+[Autumn]:  They're, I mean, the horrible ones are very interesting to look at.
+
+[Chance]:  Yeah, like the
+
+[Kirstin]:  I really don't.
+
+[Chance]:  I wanted to do something. I wanted to do a good visual for her. I'll drop it in the. Yeah.
+
+[Chance]:  the text shot.
+
+[Chance]:  I wanted to do a good visual of this one and I just could not make it work.
+
+[Chance]:  So like, looking at like the...
+
+[Chance]:  the passenger class distribution.
+
+[Chance]:  from where they embark from.
+
+[Ashlyn]:  Oh yeah, I was going to say that wasn't bad one, too.
+
+[Autumn]:  Mama.
+
+[Chance]:  And it was like
+
+[Kirstin]:  Oh, man.
+
+[Chance]:  it was like I tried to make it work and I want it and I was like I just can't like get the
+
+[Chance]:  I can't get the the the shading right, but also the
+
+[Chance]:  like the...
+
+[Kirstin]:  just like just too many combinations.
+
+[Chance]:  Yeah, it's just like, it's like, it's not like.
+
+[Chance]:  like with
+
+[Chance]:  My first good plot, I did a stacked histogram.
+
+[Chance]:  Um.
+
+[Chance]:  But for the age distribution and whether or not the passenger survived.
+
+[Chance]:  And I was like, that one was easy because it's like in pretty much all cases, like the number of people who survived is going to be like smaller than the number of people who did not survive.
+
+[Chance]:  Well, in every case, it's going to be that way.
+
+[Chance]:  for...
+
+[Chance]:  where they embarked from, it wasn't that like there wasn't like a clear
+
+[Chance]:  like distinction between.
+
+[Chance]:  Oh yes, Lake.
+
+[Chance]:  across every single port.
+
+[Chance]:  every passenger lake.
+
+[Chance]:  You know what I mean?
+
+[Chance]:  Okay.
+
+[Autumn]:  Yeah.
+
+[Kirstin]:  Yeah, but there's not like any sort of pattern.
+
+[Chance]:  So yeah, that's why I was like, I'm going to make this a bad visual.
+ This is going to be one of my bad visual stations.
+
+[Chance]:  Uh, tch.
+
+[Chance]:  He also is taking optimization.
+
+[Chance]:  Starting next week. Autumn or not, Autumn Ashland, are you?
+
+[Ashlyn]:  I'm doing that power BI class.
+
+[Ashlyn]:  BIA is excellent.
+
+[Chance]:  Uh, Autumn, are you taking 6330?
+
+[Autumn]:  No.
+
+[Chance]:  Okay, I thought I had, I wasn't sure if I had class with anybody.
+
+[Chance]:  I don't think I'd deal.
+
+[Chance]:  because that starts next week.
+
+[Autumn]:  Yeah, I have it.
+
+[Kirstin]:  Hope on!
+
+[Autumn]:  Yeah, I have 6320 right now. That's why I'm going to have to hop off. I'm sorry. It was just the way.
+
+[Chance]:  Oh yeah, yeah, no, you're good.
+
+[Kirstin]:  It's like no more.
+
+[Autumn]:  definitely no more data die, but I'm still like I'm in statistics and then this class so yeah no I
+ can not have another class next seven weeks. Like a lesson learned.
+
+[Autumn]:  I don't know what I even did.
+
+[Ashlyn]:  I need to take this class. Oh.
+
+[Ashlyn]:  I already know.
+
+[Chance]:  Wait, Ashlyn, what's your third class that you're in?
+
+[Ashlyn]:  I'm doing it into it.
+
+[Chance]:  Oh, that's right. Yeah, that's right. I forgot about that.
+
+[Chance]:  But yeah, no, I'm curious to see how 6330 goes.
+
+[Ashlyn]:  I kind of see when I took that I remember like what it was about.
+
+[Chance]:  That's good.
+
+[Chance]:  You probably took it last spring.
+
+[Kirstin]:  Yeah, I took it less.
+
+[Kirstin]:  I guess last spring.
+
+[Kirstin]:  I thought it was hard because like...
+
+[Kirstin]:  There wasn't very much direction anymore.
+
+[Chance]:  Yeah.
+
+[Kirstin]:  Um.
+
+[Kirstin]:  then yeah I remember thinking it was really hard and like
+
+[Kirstin]:  Hi.
+
+[Chance]:  Like I knew when Hannah took it.
+
+[Chance]:  It's like your final project you did.
+
+[Kirstin]:  just sort of on your own.
+
+[Chance]:  Yeah, like your final project needs to leak.
+
+[Ashlyn]:  Oh, yeah, remember that class.
+
+[Chance]:  like these criteria is like, like, has to have like music.
+
+[Kirstin]:  Yeah, like you basically spend the whole semester on the one project.
+
+[Ashlyn]:  And then you have to present it all for yourself.
+
+[Chance]:  Yeah.
+
+[Kirstin]:  um like just different stages to get it finished but there's just not a lot of instruction or like
+ any like videos or stuff like there was before
+
+[Kirstin]:  And so there's sort of a lot of assumed knowledge, which I was like, hmm, not sure, but I.
+
+[Chance]:  To me, you can't.
+
+[Kirstin]:  I've retained it in this way.
+
+[Chance]:  It kind of seems like it.
+
+[Chance]:  Like 63 30 is kind of what like.
+
+[Chance]:  like what a capstone class would be.
+
+[Kirstin]:  Yeah, and I think that's the idea because it is the capstone for the certificate.
+
+[Chance]:  the certificate? Yeah.
+
+[Ashlyn]:  It's nice being able to pick like whatever data we want it to work with.
+
+[Chance]:  Yeah, I've got.
+
+[Kirstin]:  Yeah, that was cool.
+
+[Chance]:  Like I have some ideas, I...
+
+[Chance]:  I really want to leave.
+
+[Chance]:  Do some like transit modeling?
+
+[Chance]:  And I think I might do like pick a data set that's like
+
+[Chance]:  Involved or kind of kind of somewhere to that like one taxi like the taxi and the bike data set we use last semester.
+
+[Chance]:  kind of like
+
+[Chance]:  like predicting.
+
+[Chance]:  but then also overlaying.
+
+[Chance]:  like predicting whether like there's going to be enough predicting writers like whatever.
+
+[Chance]:  So.
+
+[Chance]:  I have ideas for what data I want to use as just a matter of lake.
+
+[Chance]:  procuring it and.
+
+[Autumn]:  No.
+
+[Chance]:  using it.
+ Hahaha!
+
+[Chance]:  But.
+
+[Chance]:  All right.
+
+[Autumn]:  Oh, hey, I'm so sorry. Oh, yeah.
+
+[Autumn]:  This is only for you. Ah.
+
+[Chance]:  No, no. You're good. No, I was about, I was about to as like, like Ashlyn, or not, Ashlyn Autumn, Autumn has to go.
+
+[Autumn]:  Yeah, so I
+
+[Autumn]:  some information down to the conclusion paragraph, I moved my visualization, my
+
+[Autumn]:  bullet points and just
+
+[Autumn]:  Like a couple sentences up towards the top.
+
+[Autumn]:  but if...
+
+[Autumn]:  you feel like.
+
+[Autumn]:  if anyone feels like there's anything more that needs to be done for my part, please let me know
+ otherwise I will hop off and then
+
+[Autumn]:  Yeah, see you guys tomorrow and if anyone has trouble accessing the link I've checked it like four times and it's
+
+[Autumn]:  everyone can add hip however I'm sorry the link for the PowerPoint if you cannot please let me know um
+
+[Autumn]:  go in and double check all that.
+
+[Ashlyn]:  I think we can.
+
+[Chance]:  Yeah, let me try accessing it right now just to.
+
+[Chance]:  to make sure.
+
+[Chance]:  Yep, I can access it, and I can.
+
+[Chance]:  edit so.
+
+[Autumn]:  Oh, and even that might be too long but I just gave everybody...
+
+[Autumn]:  too slidgy, I mean last time I know he caught, maybe that's why he got me last time to talk
+ again because he was like, okay time's on, so I'm like, yep, gotcha, I'm going, I wasn't
+ trying to be smart towards him or anything, I was like, oh shoot, I was trying to fly through.
+
+[Autumn]:  all the information so
+
+[Autumn]:  Yeah, if we need to get rid of some...
+
+[Chance]:  like I think honestly what we should do like what our PowerPoint should look like is kind of just mimicking our report
+
+[Chance]:  So like
+
+[Kirstin]:  Yeah, just like a...
+
+[Kirstin]:  with little.
+
+[Chance]:  are accurate like.
+
+[Chance]:  Here's a breakdown of the version of the Titanic data set we used.
+
+[Chance]:  Here's our accurate visuals.
+ Here's what they convey.
+
+[Chance]:  Here's why they're good.
+
+[Chance]:  Um.
+
+[Autumn]:  Okay.
+
+[Chance]:  Here's our bad visuals, here's why they're bad.
+
+[Chance]:  Here's why it could be, it's not ethical to design in this way.
+
+[Chance]:  And then just call it at that.
+
+[Autumn]:  Why just deleted slides?
+ Everyone has one slide and I took the introduction
+ that was on the paper and kind of,
+
+[Autumn]:  bullet pointed it and I know chance you said you just added um to it so
+
+[Autumn]:  if that needs to be.
+ you
+
+[Chance]:  Oh I added two. Oh yeah, no, that should be fine. And then what I'll do is like on the next I'll make it so.
+
+[Chance]:  basically we'll have, I guess, seven total slides.
+
+[Chance]:  or to six.
+
+[Autumn]:  Oh yes, my god.
+
+[Chance]:  So we'll have the title, the introduction.
+
+[Chance]:  like the breakdown of the data set.
+
+[Chance]:  like what features are present, what not, and then good visualization one, good visualization too.
+
+[Chance]:  bad visualization one, bad visualization two.
+
+[Autumn]:  Okay, yes.
+
+[Chance]:  And then I'm fine with just calling it there.
+
+[Chance]:  Oh, yeah, yeah.
+
+[Ashlyn]:  Thank you.
+
+[Ashlyn] - event: disconnected
+[Autumn] - event: disconnected
+[Chance]:  All right, bye.
+
+[Kirstin]:  Thanks.
+
+[Chance]:  I'm gonna hop out as well.
+
+[Chance]:  And then also I'm going to get everything summed up in AI.
+
+[Chance]:  so that way that's done.
+
+[Kirstin]:  I'm going to look for it.
+
+[Chance] - event: disconnected
+[Kirstin]:  I am.
